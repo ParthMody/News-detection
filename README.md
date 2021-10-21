@@ -3,7 +3,7 @@ Fake news detection using Machine Learning.
 
 //Implementation//
 
-We have implemented the model using Logistic Regression, Decision Tree Classification, Gradient Boosting Classifixation and Random Forest Classifier it has an average accuracy of 99.21%
+We have implemented the model using Logistic Regression, Decision Tree Classification, Gradient Boosting Classification and Random Forest Classifier it has an average accuracy of 99.21%
 
 //Output//
 
